@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Wong"
+  given-names: "Ethan Parker"
+  orcid: "https://orcid.org/0009-0001-4983-129X"
+title: "Responsible AI Guide"
+version: 1.0.0
+date-released: 2024-07-20
+url: "https://github.com/ethanwongca/Responsible-AI-Guide"
