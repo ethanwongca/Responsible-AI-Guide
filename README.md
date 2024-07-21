@@ -26,7 +26,7 @@ Here are some further resources that you can read to help you on your responsibl
 There are no formal contributing guidelines. If you have any ideas to add to this guide please submit a pull request or create an issue. Any feedback and contributions are appreciated!
 
 ## Inspiration 
-This guide was inspired by the Prompt Engineering Guide and the Blind 75 Guide
+This guide was inspired by the [Prompt Engineering Guide][https://www.promptingguide.ai/] and the [Blind 75 Guide][https://www.techinterviewhandbook.org/best-practice-questions/]
 
 ## License 
 This repository is under the **MIT License**
