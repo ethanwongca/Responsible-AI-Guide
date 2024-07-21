@@ -20,6 +20,7 @@ Here are some further resources that you can read to help you on your responsibl
   - :computer: Google's Responsible AI Guidelines Are Available [Here](https://ai.google/responsibility/responsible-ai-practices/)
   - 🐝 IBM's Pillars of Responsible AI and IBM's Resources Are Available [Here](https://www.ibm.com/topics/responsible-ai)
   - :calling: Meta's Responsible AI Guide is Available [Here](https://ai.meta.com/responsible-ai/)
+  - 🏙️: Responsible AI Institute's Member Application to Join an Industry Backed Community is Provided [Here](https://www.responsible.ai/)
 
 ## Contributing 
 There are no formal contributing guidelines. If you have any ideas to add to this guide please submit a pull request or create an issue. Any feedback and contributions are appreciated!
